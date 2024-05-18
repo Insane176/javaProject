@@ -1,5 +1,12 @@
 This is an ATM transaction Program using awt in JAVA.
 
+NOTE :
+backgroundImage = Toolkit.getDefaultToolkit().getImage("COPY THE IMAGE PATH IN YOUR SYSTEM");
+To Run the Background image of this Program COPY the Path of the given Image in your System !
+
+
+
+
 The Problem Description for the Program is given Below :
 
 

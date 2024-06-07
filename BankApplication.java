@@ -13,7 +13,7 @@ public class Main extends Frame implements ActionListener {
     Image backgroundImage;
 
     public Main() {
-        // Load the background image
+        
         backgroundImage = Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY\\Downloads\\front2.jpg");
         Font titleFont = new Font("Broadway", Font.BOLD, 30);
         Font labelFont = new Font("Andromeda", Font.PLAIN, 20);

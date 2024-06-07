@@ -141,7 +141,7 @@ class SignUpForm extends Frame implements ActionListener {
     public SignUpForm(Main mainApp) {
         this.mainApp = mainApp;
 
-        backgroundImage = Toolkit.getDefaultToolkit().getImage("C:\\xampp\\htdocs\\23ITR111\\day 4\\cool-website-background-13.jpg");
+        backgroundImage = Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY\\Downloads\\signup.jpg");
 
         Font labelFont = new Font("Andromeda", Font.PLAIN, 20);
         Font textFont = new Font("Arial", Font.PLAIN, 20);

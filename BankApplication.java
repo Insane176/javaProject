@@ -14,7 +14,7 @@ public class Main extends Frame implements ActionListener {
 
     public Main() {
         // Load the background image
-        backgroundImage = Toolkit.getDefaultToolkit().getImage("C:\\Users\\Admin\\Downloads\\th.jpg");
+        backgroundImage = Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY\\Downloads\\front2.jpg");
         Font titleFont = new Font("Broadway", Font.BOLD, 30);
         Font labelFont = new Font("Andromeda", Font.PLAIN, 20);
         Font textFont = new Font("Arial", Font.PLAIN, 20);
@@ -342,7 +342,7 @@ class BankOperation extends Frame implements ActionListener {
 
     public BankOperation(String[] accountDetails) {
         this.accountDetails = accountDetails;
-        backgroundImage = Toolkit.getDefaultToolkit().getImage("C:\\Users\\Admin\\Downloads\\pexels-liliana-drew-8554372.jpg");
+        backgroundImage = Toolkit.getDefaultToolkit().getImage("C:\\Users\\MY\\Downloads\\functionpage.jpg");
 
         Font titleFont = new Font("Broadway", Font.BOLD, 30);
         Font buttonFont = new Font("Broadway", Font.BOLD, 16);

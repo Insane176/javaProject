@@ -3,8 +3,7 @@ This is an ATM transaction Program using awt in JAVA.
 Presenation link : https://drive.google.com/file/d/1PVwSVM2xUOsuzPr0D_pHVButV0BdWj-x/view?usp=sharing
 
 NOTE :
-backgroundImage = Toolkit.getDefaultToolkit().getImage("COPY THE IMAGE PATH IN YOUR SYSTEM");
-To Run the Background image of this Program COPY the Path of the given Image in your System !
+uploaded images should cloned into your drive to Run the program with respective BG images
 
 
 
